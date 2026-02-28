@@ -5,12 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "PlatformIO Debugger",
+            "name": "Launch Chrome",
             "request": "launch",
-            "type": "platformio-debug",
-            "executable": ".pio/build/myenv/firmware.elf",
-            "toolchainBinDir": "/usr/local/bin"
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
         },
+       
         
     ]
 }
