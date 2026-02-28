@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "*.yaml": "home-assistant"
-    }
+        "*.yaml":"nspanel_blueprint"
+    },
+    "idf.flashType": "UART"
 }
