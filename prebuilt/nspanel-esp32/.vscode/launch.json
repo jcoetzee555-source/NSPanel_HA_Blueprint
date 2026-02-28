@@ -11,11 +11,6 @@
             "executable": ".pio/build/myenv/firmware.elf",
             "toolchainBinDir": "/usr/local/bin"
         },
-        {
-            "name": "PlatformIO Debugger",
-            "request": "launch",
-            "type": "platformio-debug",
-            "toolchainBinDir": "/usr/local/bin"
-        }
+        
     ]
 }
