@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "matthiesen-technology.yaml-with-script",
-        "espressif.esp-idf-extension"
+        "espressif.esp-idf-extension",
+        "zikalinox.vscode-esp-installer"
     ]
 }
