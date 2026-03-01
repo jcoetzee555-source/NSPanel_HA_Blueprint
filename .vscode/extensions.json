@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "matthiesen-technology.yaml-with-script"
+        "matthiesen-technology.yaml-with-script",
+        "espressif.esp-idf-extension"
     ]
 }
